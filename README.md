@@ -11,4 +11,11 @@ Link: https://grouplens.org/datasets/movielens/1m/
 ## Requirements
 tensorflow-gpu 1.10  
 bert-as-service v1.10.0
+
+## Running the code
+You can either choose to run the code in local, or to run it in the cloud. Runing in Colab is recommended because you don't need to install additional packages. And it is easy to switch between tensorflow versions.  
+1. Download or clone the repo to your local disk.
+2. Upload the Jupyter file to Colab.
+3. Make sure the first two lines are uncommented.
+4. Run the code and you are good to go. 
   
